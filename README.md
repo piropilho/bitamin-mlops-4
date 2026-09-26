@@ -61,3 +61,13 @@ Telco Customer Churn (`WA_FnUseC_TelcoCustomerChurn.csv`)
 ### 심화 2: .dockerignore 적용으로 이미지 용량 축소
 **명령어**: `.dockerignore` 작성 후 `docker build -t bitamin-mlops-1-v2 .`
 **결과**: 불필요 파일(캐시, git 관련 등) 제외 설정 반영
+
+---
+
+## 복습과제 제출 - 박필호
+
+### 과제 정리
+
+2주차 복습 과제 및 실습 내용은 아래 Notion 페이지로 제춣합니다.
+
+https://app.notion.com/p/2-3e714082a08880ab9a6eca8f043b40e8?source=copy_link
